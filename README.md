@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**graceso/graceso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Grace, a web developer 👩🏻‍💻 based in Canberra.
 
-Here are some ideas to get you started:
+I like to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`code` : https://graceso.github.io
+
+`write` : https://graceso.dev
+
+&
+
+`create` : https://www.instagram.com/studio__onyx
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/drupal.svg' alt='drupal' height='30'>](https://www.drupal.org/u/graces10)  
