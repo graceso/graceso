@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Grace, a web developer 👩🏻‍💻 based in Canberra.
+I'm Grace, a web developer 👩🏻‍💻 by day and 3D artist by night.
 
 I like to:
 
