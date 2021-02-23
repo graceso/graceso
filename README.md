@@ -1,13 +1,2 @@
-## Hello! 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graceso&" alt="graceso" /></p>
 
-I'm Grace, a web developer 👩🏻‍💻 by day and 3D artist by night.
-
-I like to:
-
-`code` : https://graceso.github.io
-
-`write` : https://graceso.dev
-
-&
-
-`create` : https://www.instagram.com/studio__onyx
